@@ -1,10 +1,6 @@
 # apace
 Apace is an easy to use and fully featured open source PHP MVC built to help you write nicer and faster code, in a very simple way.
 
-
-![alt tag](https://cloud.githubusercontent.com/assets/26118796/23610373/81414338-0272-11e7-9501-4aeea0410dbe.png)
-
-
 ### Main features:
 - One core multiple applications structure thanks to internal domainmapping
 - View template engine - you can have multiple master layouts
@@ -23,7 +19,6 @@ This means that you can have all your applications in the same framework which s
 
 ### How?
 The answer is internal domainmapping, which can be set up with one line in the configuration file.
-
 Domain mapping works with both domains and sub-domains, in plain text it transforms to this:
 ```
 Apace /
