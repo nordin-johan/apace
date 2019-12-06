@@ -39,11 +39,11 @@ In Apace MVC you have the ability to create as many applications as you wish in 
 
 It is possible to easily map multiple domains like ```www.mysite.com``` to one of your applications in the framework itself. It is also possible to map subdomains like ```www.mysite.com/admin``` or ```www.anothersite.com/admintwo``` to another app.
 
-**Let’s do that now:**
+**Setup**
 
 1.	In your Apace folder, open engine/settings/local.ini and under [domainmapping] add ```http://apace.local/ = "app"```. 
 
-This will tell the framework to load “app” when browsing ```http://apace.local/``` . It works dynamically without the need of further configuration.
+This will tell the framework to load “app” when browsing ```http://apace.local/``` .
 Now visit ```http://apace.local/``` in your browser and you will see the default Apace index view.
 
 That’s it, now you’re ready to start developing.
