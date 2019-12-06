@@ -1,4 +1,5 @@
 # apace
+Proof of work PHP MVC framework.
 Apace is an easy to use and fully featured open source PHP MVC built to help you write nicer and faster code, in a very simple way.
 
 ### Main features:
@@ -34,9 +35,9 @@ Apace /
 
 1. Download the framework and put it in your desired folder.
 
-2. Add a virtual host called apace.local from your localhost, point DocumentRoot to "c:/wamp/www/apace" and Directory to "c:/wamp/www/apace/". Don’t forget to update your computers hosts file. If you don’t know how to set up  a virtual host on localhost watch this tutorial: https://www.youtube.com/watch?v=WC8H8sAJLrQ . The framework will not work without a virtual host.
+2. Add a virtual host called apace.local on your local client.
 
-3.	In the Apace framework, go to application/app/configuration/config.ini, open the file and set set ```baseurl = http://apace.local/``` . 
+3.	In the Apace framework, go to application/app/configuration/config.ini, open the file and set ```baseurl = http://apace.local/``` . 
 
 ## 2. Domain mapping
 
