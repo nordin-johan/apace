@@ -25,10 +25,10 @@
  * THE SOFTWARE.
  *
  * @package	  Apace
- * @author	  Apace Dev Team | apacedev@gmail.com
- * @copyright Copyright (c) 2014 - 2017, Apace
+ * @author	  Johan Nordin
+ * @copyright Copyright (c) 2014
  * @license	  http://opensource.org/licenses/MIT	MIT License
- * @link	  https://github.com/apacedev/apace
+ * @link	  https://github.com/nordin-johan/apace
  * @since	  Version 1.0.0
  * @filesource
  */

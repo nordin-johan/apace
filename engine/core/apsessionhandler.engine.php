@@ -26,7 +26,7 @@
  *
  * @package   Apace
  * @author    Apace Dev Team
- * @copyright Copyright (c) 2014 - 2017, Apace
+ * @copyright Copyright (c) 2014
  * @license   http://opensource.org/licenses/MIT    MIT License
  * @link      https://apacegithub.com
  * @since     Version 1.0.0
