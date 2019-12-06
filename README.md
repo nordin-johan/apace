@@ -1,19 +1,13 @@
 # apace
 Proof of work PHP MVC framework.
-Apace is an easy to use and fully featured open source PHP MVC built to help you write nicer and faster code, in a very simple way.
 
 ### Main features:
-- One core multiple applications structure thanks to internal domainmapping
-- View template engine - you can have multiple master layouts
+- One core multiple applications structure with internal domainmapping
 - Automatic HTML-compression for performance enhancement
+- Multilanguage applications as default
+- Built in development flow
+- View template engine
 - Page caching
-- Multilanguage applications as default, no setup required
-- Go from local to live development easy with the built in development status configuration
-- A CLI which monitors your framework when you work and compile and minify your css and javascript files for you automatically.
-
-
-![alt tag](https://cloud.githubusercontent.com/assets/26118796/23684726/d871b6fe-03a0-11e7-8500-759ef5443f1b.png)
-
 
 *Apace is built to expand automatically with __one core__ and __multiple apps__.
 This means that you can have all your applications in the same framework which simplifies upgrading your applications and the framework itself, sharing sessions between multiple applications and likewise sharing data between multiple applications.*
@@ -53,8 +47,6 @@ This will tell the framework to load “app” when browsing ```http://apace.loc
 Now visit ```http://apace.local/``` in your browser and you will see the default Apace index view.
 
 That’s it, now you’re ready to start developing.
-
-You can read more below or check out the Hello World tutorial here: https://github.com/apacedev/apace/blob/master/TUTORIAL.md
 
 ## 3. The Apace framework
 
