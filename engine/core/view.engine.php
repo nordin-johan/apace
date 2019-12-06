@@ -24,13 +24,12 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package	  Apace
- * @author	  Johan Nordin
- * @copyright Copyright (c) 2014
- * @license	  http://opensource.org/licenses/MIT	MIT License
- * @link	  https://github.com/nordin-johan/apace
- * @since	  Version 1.0.0
- * @filesource
+ * @package     Apace
+ * @author      Johan Nordin
+ * @copyright   Copyright (c) 2014
+ * @license     http://opensource.org/licenses/MIT
+ * @link        https://github.com/nordin-johan/apace
+ * @since       Version 1.0.0
  */
 
 /**

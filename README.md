@@ -1,5 +1,5 @@
 # apace
-Proof of work PHP MVC framework.
+Proof of work PHP MVC framework - written in 2014.
 
 ### Main features:
 - One core multiple applications structure with internal domainmapping
